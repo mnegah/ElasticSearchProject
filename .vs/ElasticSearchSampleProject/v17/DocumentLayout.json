@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|solutionrelative:elasticsearchsampleproject.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|solutionrelative:elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.application\\features\\searchproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|solutionrelative:elasticsearchsampleproject.application\\features\\searchproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|solutionrelative:elasticsearchsampleproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|solutionrelative:elasticsearchsampleproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|solutionrelative:elasticsearchsampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:13:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchProductsHandler.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
+              "RelativeToolTip": "ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:11:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:35:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
+              "RelativeToolTip": "ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:25:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject\\appsettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\appsettings.json",
+              "RelativeToolTip": "ElasticSearchSampleProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T18:05:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\Program.cs",
+              "RelativeDocumentMoniker": "ElasticSearchSampleProject\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\Program.cs",
+              "RelativeToolTip": "ElasticSearchSampleProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:05:31.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

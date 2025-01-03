@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxoC6WJD26A=",
+  "success": true,
+  "projectFilePath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msneg\\.nuget\\packages\\elastic.clients.elasticsearch\\8.16.3\\elastic.clients.elasticsearch.8.16.3.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\elastic.transport\\0.5.6\\elastic.transport.0.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}

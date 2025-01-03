@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ElasticSearchSampleProject.Application/1.0.0": {
+        "dependencies": {
+          "Elastic.Clients.Elasticsearch": "8.16.3",
+          "ElasticSearchSampleProject.Core": "1.0.0"
+        },
+        "runtime": {
+          "ElasticSearchSampleProject.Application.dll": {}
+        }
+      },
+      "Elastic.Clients.Elasticsearch/8.16.3": {
+        "dependencies": {
+          "Elastic.Transport": "0.5.6"
+        },
+        "runtime": {
+          "lib/net8.0/Elastic.Clients.Elasticsearch.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.16.3.0"
+          }
+        }
+      },
+      "Elastic.Transport/0.5.6": {
+        "runtime": {
+          "lib/net8.0/Elastic.Transport.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.5.6.0"
+          }
+        }
+      },
+      "ElasticSearchSampleProject.Core/1.0.0": {
+        "runtime": {
+          "ElasticSearchSampleProject.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElasticSearchSampleProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elastic.Clients.Elasticsearch/8.16.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p1Ld3i3kosTxYsvnUIu5evq0zbGX2Uty8W7figuDpejvD9ebxKmRgsId4dZdPjHQ2L/z0t8+rTnBlZ3BsqLCmg==",
+      "path": "elastic.clients.elasticsearch/8.16.3",
+      "hashPath": "elastic.clients.elasticsearch.8.16.3.nupkg.sha512"
+    },
+    "Elastic.Transport/0.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4WGaVuBDvdLYgrXNchxXS0dLh92Vb5bH7dgVl0w6cHudXFKh67JZFY2se2LZ3SpUPsQWuv2UKQQRbJB/qbRJBQ==",
+      "path": "elastic.transport/0.5.6",
+      "hashPath": "elastic.transport.0.5.6.nupkg.sha512"
+    },
+    "ElasticSearchSampleProject.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
