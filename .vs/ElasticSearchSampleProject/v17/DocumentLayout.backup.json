@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|solutionrelative:elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F21F0032-B326-46F4-8B14-0B1399247D5E}|ElasticSearchSampleProject.Application\\ElasticSearchSampleProject.Application.csproj|solutionrelative:elasticsearchsampleproject.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|solutionrelative:elasticsearchsampleproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C430044-C140-461B-80F7-8BACBD3C5E46}|ElasticSearchSampleProject.Infrastructure\\ElasticSearchSampleProject.Infrastructure.csproj|solutionrelative:elasticsearchsampleproject.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEDC6C23-BC41-45AC-B7E0-C08D29533EF3}|ElasticSearchSampleProject\\ElasticSearchSampleProject.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\elasticsearch\\project\\elasticsearchsampleproject\\elasticsearchsampleproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ElasticSearchSampleProject.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -79,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SearchProductsHandler.cs",
               "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
               "RelativeDocumentMoniker": "ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
               "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
               "RelativeToolTip": "ElasticSearchSampleProject.Application\\Features\\SearchProductsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T15:11:59.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ElasticSearchSampleProject\\Controllers\\ProductsController.cs",
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
               "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\ElasticSearch\\Project\\ElasticSearchSampleProject\\ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
               "RelativeToolTip": "ElasticSearchSampleProject.Application\\Services\\ProductServices.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAiwDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwEwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T19:25:02.588Z",
               "EditorCaption": ""

@@ -1,5 +1,6 @@
 ﻿using Elastic.Clients.Elasticsearch;
 using Elastic.Clients.Elasticsearch.Core.Bulk;
+using Elastic.Clients.Elasticsearch.QueryDsl;
 using ElasticSearchSampleProject.Application.Features;
 using ElasticSearchSampleProject.Core.Entities;
 using ElasticSearchSampleProject.Core.Interfaces;
@@ -14,7 +15,7 @@ namespace ElasticSearchSampleProject.Application.Services
 
         private readonly ElasticsearchClient _elasticClient;
 
-        public ProductService(IProductRepository productRepository,SearchProductsHandler serachProducthandler ,ElasticsearchClient elasticClient)
+        public ProductService(IProductRepository productRepository, SearchProductsHandler serachProducthandler, ElasticsearchClient elasticClient)
         {
             _productRepository = productRepository;
             _serachProducthandler = serachProducthandler;
@@ -59,14 +60,21 @@ namespace ElasticSearchSampleProject.Application.Services
                 //Index data into the Elastic Database
                 var products = await _productRepository.GetAllProductsAsync(CancellationToken.None);
 
+                // Delete existing data in the Elasticsearch index
+                var deleteRequest = new DeleteByQueryRequest("products") // Specify the index name
+                {
+                    Query = new MatchAllQuery() // Match all documents
+                };
+
+                var deleteResponse = await _elasticClient.DeleteByQueryAsync(deleteRequest);
+
                 var bulkRequest = new BulkRequest("products")
                 {
                     Operations = new BulkOperationsCollection(
                                      products.Select(p => new BulkIndexOperation<Products>(p)).ToList()
-                )
-                };
-                await _elasticClient.BulkAsync(bulkRequest);
+                )};
 
+                await _elasticClient.BulkAsync(bulkRequest);
                 //Read and search data from the original database
                 return products
                     .Where(p => p.ProductName.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
