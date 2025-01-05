@@ -15,7 +15,7 @@ namespace ElasticSearchSampleProject.Infrastructure.Repositories
 
         public async Task<List<Products>> GetAllProductsAsync(CancellationToken cancellationToken)
         {
-            return await _context.Products.Include("Category").AsNoTracking() // AsNoTracking
+            return await _context.Products.AsNoTracking() // AsNoTracking
                 .ToListAsync(cancellationToken);
         }
 
